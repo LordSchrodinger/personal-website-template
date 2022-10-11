@@ -1,4 +1,4 @@
-# personal-website-template
+# Personal Website: Vishnu
 
 A simple one page template suited for personal and portfolio pages. 
 
